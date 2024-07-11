@@ -1,0 +1,1 @@
+So, i created this simple game as part of a learning process in one of the courses I'm going through right now. Hope u enjoy :) 
